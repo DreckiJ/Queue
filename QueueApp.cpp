@@ -2,10 +2,20 @@
 //
 #include "../QueueLib/Queue.h"
 #include <iostream>
+#include <vector>
 
 int main()
 {
+    /*
+    Queue q;
+    q.insert(0);
+    q.insert(1);
+    q.insert(2);
+    q.insert(3);
     std::cout << "Hello World!\n";
+    for(auto i=q.values.begin();i!=q.values.end();++i)
+    { }
+    */
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
